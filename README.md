@@ -3,7 +3,8 @@ Nim: 2430511024
 Kelas: 5A
 
 Screenshoot Aplikasi:
-c:\Users\meisy\Downloads\SSAN.jpeg
+<img width="738" height="1600" alt="SSAN" src="https://github.com/user-attachments/assets/5a333309-7a75-4132-ac96-d876c3801745" />
+
 
 langkah menjalankan proyek:
 - Buka Terminal & Masuk ke Folder Proyek
